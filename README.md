@@ -4,7 +4,7 @@
 
 ### Libraries Used to make this Portfolio are listed Below
 
-emailjs/browser
+emailjs/browser<br />
 emotion/react
 emotion/styled
 fortawesome/free-brands-svg-icons
