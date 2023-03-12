@@ -132,3 +132,31 @@
     }
   }
 }
+
+.dashboard input,
+textarea {
+  padding: 10px;
+  background: #115173;
+  color: #fff;
+  border: 0;
+}
+
+.dashboard input[type='file'] {
+  padding: 0px;
+}
+
+.dashboard button {
+  padding: 5px;
+  box-sizing: border-box;
+  margin-right: 10px;
+  background-color: transparent;
+  border: 1px solid #ffd700;
+  color: #ffd700;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.dashboard button:hover {
+  background-color: #ffd700;
+  color: #115173;
+}

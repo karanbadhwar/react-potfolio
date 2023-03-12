@@ -1,4 +1,3 @@
-// import TextField from '@mui/material/TextField'
 import { useRef } from 'react'
 import { auth, storage, db } from '../../firebase'
 import { getDownloadURL, ref, uploadBytes } from 'firebase/storage'
@@ -60,7 +59,6 @@ export default function Home() {
   return (
     <div className="dashboard">
       <form ref={form} onSubmit={submitPortfolio}>
-        {/* <TextField id="Name" label="Name" type="text" variant="filled" /> */}
         <p>
           <input type="text" placeholder="Name" />
         </p>
