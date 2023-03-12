@@ -41,7 +41,7 @@ const About = () => {
           </p>
           <p>
             If I have to define myself in one sentence that would be a Caring
-            and loving Son/Brother/Friend/BoyFriend. I'm a Huge Cristiano
+            and loving Person. I'm a Huge Cristiano
             Ronaldo Fan, kind of Obssessed Fan, as Obssessed as I am with new
             Technologies.
           </p>
