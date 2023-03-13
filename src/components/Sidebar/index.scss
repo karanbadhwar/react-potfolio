@@ -160,6 +160,15 @@ nav {
         width: auto;
         margin-left: 10px;
       }
+      a:first-child {
+        left: -10px;
+      }
+      a:nth-child(2) {
+        left: -10px;
+      }
+      a:nth-child(4) {
+        left: -2px;
+      }
       a svg {
         opacity: 1 !important;
       }
